@@ -5,7 +5,7 @@
   <artifactId>testbuild</artifactId>
   <name>testbuild</name>
   <packaging>jar</packaging>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
 
   <url>http://clojure.org/</url>
   <description>Dummy project to test Maven / Hudson / Sonatype build and release process</description>
